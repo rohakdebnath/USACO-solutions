@@ -1,0 +1,22 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/rohakdebnath/Desktop/Cpp /USACO/diamondcollector'
+relocations:
+  - { offsetInCU: 0x5144, offset: 0x5144, size: 0x8, addend: 0x0, symName: __ZNSt3__111make_uniqueB7v160006IA_iEENS_11__unique_ifIT_E28__unique_array_unknown_boundEm, symObjAddr: 0xA4, symBinAddr: 0x100003BA4, symSize: 0x68 }
+  - { offsetInCU: 0x7AA6, offset: 0x7AA6, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003B00, symSize: 0x78 }
+  - { offsetInCU: 0x7B8A, offset: 0x7B8A, size: 0x8, addend: 0x0, symName: __ZNSt3__19basic_iosIcNS_11char_traitsIcEEE3tieB7v160006EPNS_13basic_ostreamIcS2_EE, symObjAddr: 0x78, symBinAddr: 0x100003B78, symSize: 0x2C }
+  - { offsetInCU: 0x7BCE, offset: 0x7BCE, size: 0x8, addend: 0x0, symName: __ZNSt3__110unique_ptrIA_iNS_14default_deleteIS1_EEED1B7v160006Ev, symObjAddr: 0x10C, symBinAddr: 0x100003C0C, symSize: 0x2C }
+  - { offsetInCU: 0x7BF6, offset: 0x7BF6, size: 0x8, addend: 0x0, symName: __ZNSt3__110unique_ptrIA_iNS_14default_deleteIS1_EEEC1B7v160006IPiLb1EvvEET_, symObjAddr: 0x138, symBinAddr: 0x100003C38, symSize: 0x34 }
+  - { offsetInCU: 0x7C42, offset: 0x7C42, size: 0x8, addend: 0x0, symName: __ZNSt3__110unique_ptrIA_iNS_14default_deleteIS1_EEEC2B7v160006IPiLb1EvvEET_, symObjAddr: 0x16C, symBinAddr: 0x100003C6C, symSize: 0x44 }
+  - { offsetInCU: 0x7C93, offset: 0x7C93, size: 0x8, addend: 0x0, symName: __ZNSt3__117__compressed_pairIPiNS_14default_deleteIA_iEEEC1B7v160006IRS1_NS_16__value_init_tagEEEOT_OT0_, symObjAddr: 0x1B0, symBinAddr: 0x100003CB0, symSize: 0x3C }
+  - { offsetInCU: 0x7CE9, offset: 0x7CE9, size: 0x8, addend: 0x0, symName: __ZNSt3__117__compressed_pairIPiNS_14default_deleteIA_iEEEC2B7v160006IRS1_NS_16__value_init_tagEEEOT_OT0_, symObjAddr: 0x1F8, symBinAddr: 0x100003CF8, symSize: 0x40 }
+  - { offsetInCU: 0x7D3F, offset: 0x7D3F, size: 0x8, addend: 0x0, symName: __ZNSt3__122__compressed_pair_elemIPiLi0ELb0EEC2B7v160006IRS1_vEEOT_, symObjAddr: 0x238, symBinAddr: 0x100003D38, symSize: 0x24 }
+  - { offsetInCU: 0x7D7F, offset: 0x7D7F, size: 0x8, addend: 0x0, symName: __ZNSt3__122__compressed_pair_elemINS_14default_deleteIA_iEELi1ELb1EEC2B7v160006ENS_16__value_init_tagE, symObjAddr: 0x25C, symBinAddr: 0x100003D5C, symSize: 0x14 }
+  - { offsetInCU: 0x7DB1, offset: 0x7DB1, size: 0x8, addend: 0x0, symName: __ZNSt3__110unique_ptrIA_iNS_14default_deleteIS1_EEED2B7v160006Ev, symObjAddr: 0x270, symBinAddr: 0x100003D70, symSize: 0x30 }
+  - { offsetInCU: 0x7DD9, offset: 0x7DD9, size: 0x8, addend: 0x0, symName: __ZNSt3__110unique_ptrIA_iNS_14default_deleteIS1_EEE5resetB7v160006EDn, symObjAddr: 0x2A0, symBinAddr: 0x100003DA0, symSize: 0x6C }
+  - { offsetInCU: 0x7E17, offset: 0x7E17, size: 0x8, addend: 0x0, symName: __ZNSt3__117__compressed_pairIPiNS_14default_deleteIA_iEEE5firstB7v160006Ev, symObjAddr: 0x30C, symBinAddr: 0x100003E0C, symSize: 0x24 }
+  - { offsetInCU: 0x7E3B, offset: 0x7E3B, size: 0x8, addend: 0x0, symName: __ZNSt3__117__compressed_pairIPiNS_14default_deleteIA_iEEE6secondB7v160006Ev, symObjAddr: 0x330, symBinAddr: 0x100003E30, symSize: 0x24 }
+  - { offsetInCU: 0x7E64, offset: 0x7E64, size: 0x8, addend: 0x0, symName: __ZNKSt3__114default_deleteIA_iEclB7v160006IiEENS2_20_EnableIfConvertibleIT_E4typeEPS5_, symObjAddr: 0x354, symBinAddr: 0x100003E54, symSize: 0x44 }
+  - { offsetInCU: 0x7E9F, offset: 0x7E9F, size: 0x8, addend: 0x0, symName: __ZNSt3__122__compressed_pair_elemIPiLi0ELb0EE5__getB7v160006Ev, symObjAddr: 0x398, symBinAddr: 0x100003E98, symSize: 0x14 }
+  - { offsetInCU: 0x7EC3, offset: 0x7EC3, size: 0x8, addend: 0x0, symName: __ZNSt3__122__compressed_pair_elemINS_14default_deleteIA_iEELi1ELb1EE5__getB7v160006Ev, symObjAddr: 0x3AC, symBinAddr: 0x100003EAC, symSize: 0x14 }
+...
